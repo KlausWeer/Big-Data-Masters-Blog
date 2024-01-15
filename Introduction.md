@@ -44,7 +44,7 @@ I would like to quote the following from the book "Hadoop, The Definitive Guide"
 **_"It has been said that “more data usually beats better algorithms,” which is to say that for
 some problems (such as recommending movies or music based on past preferences),
 however fiendish your algorithms, often they can be beaten simply by having more data
-(and a less sophisticated algorithm).[5]
+(and a less sophisticated algorithm).
 The good news is that big data is here. The bad news is that we are struggling to store and
 analyze it."_**
 
